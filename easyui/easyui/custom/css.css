@@ -1,0 +1,24 @@
+﻿html, body, div, ul, li, h1 {
+    margin:0px;padding:0px;
+}
+.main-body {
+    background:#e0ecff;
+}
+.main-top {
+    height: 60px; background: #0b5ea5;padding:0px 10px;margin-bottom:3px;
+}
+.main-top h1{
+    line-height:60px; font-size:18px; color:white;
+}
+.main-left {
+    width:220px;
+}
+.layout-panel-west {
+    left:3px !important;
+}
+.main-bottom {
+    line-height: 22px; background: #e0ecff; text-align: center;
+}
+.main-frame {
+    width: 100%; height: 100%;
+}
